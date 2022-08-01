@@ -1,0 +1,19 @@
+help:
+  - "&7&m----------------&b&l Plugin Manager &7&m----------------"
+  - "&7- &b/plugman reload <plugin> &7 - Reloads a plugin."
+  - "&7- &b/plugman enable <plugin> &7 - Reloads a plugin."
+  - "&7- &b/plugman disable <plugin> &7 - Reloads a plugin."
+  - "&7- &b/plugman reloadconfig <plugin> &7 - Reloads a plugins config."
+  - "&7- &b/plugman info <plugin> &7 - Gives info about a plugin."
+  - "&7- &b/plugman load <plugin> &7 - Reloads a plugin."
+  - "&7- &b/plugman unload <plugin> &7 - Reloads a plugin."
+  - "&7&m------------------------------------------------"
+command:
+  - "&cInvalid Syntax!"
+  - "&7- &cCommand: &7%command%"
+  - "&7- &cUsage: &7%usage%"
+info:
+  - "&bPlugin Info"
+  - "&7- &bName: &7%name%"
+  - "&7- &bAuthors: &7%authors%"
+  - "&7- &bVersion: &7%version%"

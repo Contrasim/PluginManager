@@ -1,0 +1,11 @@
+name: PluginManager
+version: '${project.version}'
+author: Contrasim
+main: me.Contrasim.pluginmanager.PluginManager
+description: A plugin manager for Spigot server.
+api-version: 1.13
+commands:
+  plugman:
+    description: Main command for plugin manager.
+    aliases:
+      - pluginmanager
